@@ -10,7 +10,7 @@ gem 'jquery-rails'
 gem 'railties'
 
 group :development, :test do
-  gem 'sqlite3'
+  gem 'pg'
   gem 'rspec-rails'
   # gem 'guard-rspec'
   # gem 'guard-spork'
